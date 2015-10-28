@@ -1,2 +1,2 @@
 # Sitecore-test
-Testing a custom Sitecore page
+Testing a custom Sitecore page.
